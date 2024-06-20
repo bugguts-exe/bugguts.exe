@@ -1,0 +1,356 @@
+<div class="container-fluid shadow p-3" style="font-size:95%; background-image:url(https://static.tumblr.com/d40eae727a79de74c5b3c4cb5c8e9fd5/2pnwama/HC7pfqdws/tumblr_static_e6k5mmnyclc0c488gcsk00wgo.png);">
+ <div class="row no-gutters mx-auto" style="color:#2f3238; max-width:1000px">
+
+<!--------------------------------
+  style="color: #852624;"
+  
+  "Modular User" - F2U HTML by @StormyStarlight
+  VERSION - 6 Jun 2023
+  
+  https://toyhou.se/21857710.f2u-html-modular-user
+  
+  • Do not remove or redirect the credit. You may change how the credit is displayed/move it elsewhere, but it may not be removed altogether. Do not claim you made this layout.
+  • Feel free to modify/frankenstein this layout as much as you want as long as I am still credited, along with any other involved (consenting) creators.
+  • Keep Profile Text WYSIWYG disabled and Code Editor enabled when using this layout.
+  • Do not publicly redistribute this layout, or modified/copied/frankensteined versions of it, regardless of whether it is for free or paid use.
+  
+  
+--------------------------------->
+
+<!------ NOTICE ----------------->
+<div  
+  <p><b><i class="fad fa-circle-info" "></i> WARNING</b> I am a big fan of horror, my profile may contain mature themes. Including but not limited to; body horror, gore, sexual content, and sh/suicide.</p></p> 
+</div>
+<!------------------------------->
+
+<!------ MAIN CONTENT ----------->
+<div class="row no-gutters mt-n2">
+  
+  <!------ THIN LEFT COLUMN ----->
+  <div class="col-12 col-lg-5 col-xl-auto row no-gutters align-content-start pr-lg-2" style="width: 350px;">
+    
+    
+    <!------ MAIN USER BOX ------>
+    <div class="col-12 card bg-faded mt-2" style="overflow: hidden;">
+      
+      <!------ BANNER ----------->
+      <div style="height: 75px; background: url(
+        
+       https://i.pinimg.com/564x/52/03/c9/5203c9ec67b65c5fbebf5aa8669b13db.jpg
+        
+      ) center; background-size: cover;"><a style="position: absolute; top: 0px; right: 5px;" href="
+        
+        https://www.pinterest.com/pin/153052087327920932/
+        
+      "><i class="fa-light fa-image-polaroid text-white"></i></a></div>
+      
+      <!------ USER ICON -------->
+      <a class="bg-faded p-1 rounded-circle ml-3" style="height: 100px; width: 100px; margin-top: -50px;" href="
+        
+        https://toyhou.se/17360293.buggo#74073432
+        
+      "><img class="rounded-circle" style="height: 100%; width: 100%;" src="
+        
+        https://f2.toyhou.se/file/f2-toyhou-se/images/74073432_1XlnNof1TEMJSUf.png
+        
+      "></a>
+      
+
+      
+      <!------ HEADING ---------->
+      <div class="row no-gutters px-3"><div class="col-12 d-flex align-items-center">
+        <h2 class="mb-1" style="white-space: nowrap;">Bug<small class="text-muted"> • any pronouns</small></h2>
+        <hr class="col mx-2">
+        <h2 class="mb-0 text-primary" style="margin-top: -0.3rem;"><i class="fa-duotone fa-cloud-bolt" style="color: #852624;"></i></h2>
+      </div></div>
+      
+      <!------ BULLETS ---------->
+      <ul class="mb-0 mx-3 pl-3">
+        <li>Silly autistic loser <3 </li>
+        <li>I art, I love insects, tz is EST!</li>
+      </ul>
+      
+      <!------ SOCIALS ---------->
+      <div class="px-3 mt-1 mb-2 justify-content-between" style="font-size: 1.2rem;">
+        <a href="https://discordapp.com/users/750910794312712254" style="color: #852624;" class="tooltipster" title="Discord"><i class="fa-brands fa-discord"></i></a>
+        <a href="https://gat0ra1d.carrd.co/" style="color: #852624;" class="tooltipster" title="Carrd"><i class="fa-solid fa-id-card"></i></i></a>
+        <a href="https://www.instagram.com/gat0ra1d/" style="color: #852624;" class="tooltipster" title="Instagram"><i class="fa-brands fa-instagram"></i></a>
+        <a href="https://twitter.com/gat0ra1d" style="color: #852624;" class="tooltipster" title="Twitter"><i class="fa-brands fa-twitter"></i></a>
+        <a href="https://www.deviantart.com/gat0ra1d" style="color: #852624;" class="tooltipster" title="deviantART"><i class="fa-brands fa-deviantart"></i></a>
+        <a href="https://www.youtube.com/channel/UCMKyUJQVcjsLqATyaqKCePA" style="color: #852624;" class="tooltipster" title="YouTube"><i class="fa-brands fa-youtube"></i></a>
+        <!------ CREDIT - DON'T DELETE ------>
+        <a href="https://toyhou.se/21857710.f2u-html-modular-user" style="color: #852624;" class="tooltipster" title="F2U HTML by StormyStarlight"><i class="fa-solid fa-code"></i></a>
+      </div>
+      
+    </div>
+    <!--------------------------->
+    
+    
+    <!------ MUSIC PLAYER BOX ----
+      
+      You will need to host an audio file somewhere in order to
+      use a music player like this—you cannot use a YouTube video.
+      I recommend using Discord. This tutorial has more info:
+      https://toyhou.se/6560537.-music-player-tutorial-f2u-
+      
+      Pro Tip: If you want the music player to randomly choose a track from a list
+      every time the page is refreshed, like in the live preview, use this site:
+      https://sig.grumpybumpers.com/
+      
+    ----------------------------->
+    <audio controls loop style="height: 25px; border-radius: 0.25rem; position: relative; z-index: 2;" class="tooltipster w-100 mt-2" data-placement="bottom" title="
+      
+      All I Think About Now by Pixies
+      
+    "><source src="
+      
+      https://cdn.discordapp.com/attachments/1108152487996833822/1178851432317857864/spotifydown.com_-_All_I_Think_About_Now.mp3?ex=6577a5f3&is=656530f3&hm=95dbefc0f4ea06c78fc65647479d34d09aafdf303fc7d3b46a1c83972c34071e&
+      
+    "></audio>
+    <!--------------------------->
+    
+    
+    <!------ IMAGE ROW BOX ------>
+    <div class="col-12 card bg-faded mt-2 p-3">
+      
+      <!------ HEADING ---------->
+      <div class="row no-gutters"><div class="col-12 d-flex align-items-center">
+        <h2 class="mb-1" style="white-space: nowrap;">Friends!!!</h2>
+        <hr class="col mx-2">
+        <h2 class="mb-0 text-primary" style="margin-top: -0.3rem;"><i class="fa-duotone fa-cloud-bolt" style="color: #852624;"></i></h2>
+      </div></div>
+      
+      <!------ IMAGE ROW -------->
+      <div class="row no-gutters mx-n1 mb-n1">
+        <div  class="col-3 p-1 justify-content-center align-items-center"> <a href="https://toyhou.se/trumpsdiscordkitten"><img src="https://media.discordapp.net/attachments/1108152487996833822/1178848444761255946/Untitled549_20231127190138.png?ex=6577a32b&is=65652e2b&hm=7471799f8aedcf337f0c30b67a87cf5f09f7ed0a88dccf3f2e5d5a6d77a384bd&=&width=655&height=655" class="rounded">  </a></div>
+        <div class="col-3 p-1 justify-content-center align-items-center"><a href="https://toyhou.se/Sinloaf"><img src="https://media.discordapp.net/attachments/1108152487996833822/1178848444492824626/Untitled549_20231127190200.png?ex=6577a32b&is=65652e2b&hm=307704f3570c4b030ee38c0215d0ce685982c4b8c4b6c5518d53367fd6761be5&=&width=655&height=655" class="rounded"></a></div>
+        <div class="col-3 p-1 justify-content-center align-items-center"><a href="https://toyhou.se/ethicalcannibal"><img src="https://media.discordapp.net/attachments/1108152487996833822/1178848444761255946/Untitled549_20231127190138.png?ex=6577a32b&is=65652e2b&hm=7471799f8aedcf337f0c30b67a87cf5f09f7ed0a88dccf3f2e5d5a6d77a384bd&=&width=655&height=655" class="rounded"></a></div>
+
+      </div>
+      
+    </div>
+    <!--------------------------->
+    
+    
+    <!------ FIELDS BOX --------->
+    <div class="col-12 card bg-faded mt-2 p-3">
+      
+      <!------ HEADING ---------->
+      <div class="row no-gutters"><div class="col-12 d-flex align-items-center">
+        <h2 class="mb-1" style="white-space: nowrap;">Favorites</h2>
+        <hr class="col mx-2">
+        <h2 class="mb-0 text-primary" style="margin-top: -0.3rem;"><i class="fa-duotone fa-cloud-bolt" style="color: #852624;"></i></h2>
+      </div></div>
+      
+      <!------ FIELDS ------------
+        Add/remove/rename as many as you want!
+      --------------------------->
+      <div class="row no-gutters">
+        <div class="text-muted col-auto" style="width: 24px;"><i class="fa-solid fa-book"></i></div>
+        <div class="justify-content-between col"><span class="font-weight-bold text-uppercase text-muted mr-2">Book</span>
+        <span class="text-right" style="word-break: break-word;">Into The Wild</span></div>
+      </div>
+      <div class="row no-gutters">
+        <div class="text-muted col-auto" style="width: 24px;"><i class="fa-solid fa-camera-movie"></i></div>
+        <div class="justify-content-between col"><span class="font-weight-bold text-uppercase text-muted mr-2">Movie</span>
+        <span class="text-right" style="word-break: break-word;">The Fly</span></div>
+      </div>
+      <div class="row no-gutters">
+        <div class="text-muted col-auto" style="width: 24px;"><i class="fa-solid fa-tv-retro"></i></div>
+        <div class="justify-content-between col"><span class="font-weight-bold text-uppercase text-muted mr-2">TV Series</span>
+        <span class="text-right" style="word-break: break-word;">Leverage</span></div>
+      </div>
+      <div class="row no-gutters">
+        <div class="text-muted col-auto" style="width: 24px;"><i class="fa-solid fa-gamepad-modern"></i></div>
+        <div class="justify-content-between col"><span class="font-weight-bold text-uppercase text-muted mr-2">Video Game</span>
+        <span class="text-right" style="word-break: break-word;">Terraria / SDV</span></div>
+      </div>
+      <!-- DIVIDER --> <hr class="w-100 my-2">
+      <div class="row no-gutters">
+        <div class="text-muted col-auto" style="width: 24px;"><i class="fa-solid fa-palette"></i></div>
+        <div class="justify-content-between col"><span class="font-weight-bold text-uppercase text-muted mr-2">Color</span>
+        <span class="text-right" style="word-break: break-word;">Green / Red / Black</span></div>
+      </div>
+      <div class="row no-gutters">
+        <div class="text-muted col-auto" style="width: 24px;"><i class="fa-solid fa-paw"></i></div>
+        <div class="justify-content-between col"><span class="font-weight-bold text-uppercase text-muted mr-2">Animal</span>
+        <span class="text-right" style="word-break: break-word;">Cat</span></div>
+      </div>
+      <div class="row no-gutters">
+        <div class="text-muted col-auto" style="width: 24px;"><i class="fa-solid fa-leaf"></i></div>
+        <div class="justify-content-between col"><span class="font-weight-bold text-uppercase text-muted mr-2">Season</span>
+        <span class="text-right" style="word-break: break-word;">Fall</span></div>
+      </div>
+      
+    </div>
+    <!--------------------------->
+    
+    
+    <!------ COLLAPSIBLE BOX ---->
+    <div class="col-12 card bg-faded mt-2 p-3">
+        
+      <!------ HEADING ---------->
+      <div class="row no-gutters"><div class="col-12 d-flex align-items-center">
+        <h2 class="mb-1" style="white-space: nowrap;">
+          <a style="color: #852624;" href="#collapsible-one" data-toggle="collapse">DNI</a>
+        </h2>
+        <hr class="col mx-2">
+        <h2 class="mb-0 text-primary" style="margin-top: -0.3rem;"><i class="fa-duotone fa-cloud-bolt" style="color: #852624;"></i></h2>
+      </div></div>
+      
+      <!------ HIDDEN CONTENT --->
+      <div id="collapsible-one" class="show">
+        <p>If you meet any basic DNI criteria, are proship, are transphobic/dont support xenogenders.</p>
+      </div>
+      
+    </div>
+    <!--------------------------->
+    
+    
+    <!------ FULL IMAGE BOX ----->
+    <a class="w-100 mt-2" href="
+      
+      https://toyhou.se/17360293.buggo#74079281
+      
+    "><img class="rounded" src="
+      
+      https://f2.toyhou.se/file/f2-toyhou-se/images/74079281_p3no8Cte7cpKeVr.png
+      
+    "></a>
+    <!--------------------------->
+    
+    
+  </div>
+  <!----------------------------->
+  
+  <!------ WIDE RIGHT COLUMN ---->
+  <div class="col-12 col-lg">
+    
+    
+    <!------ MAIN TEXT BOX ------>
+    <div class="card bg-faded mt-2 p-3">
+        
+              <!------ HEADING ---------->
+      <div class="row no-gutters"><div class="col-12 d-flex align-items-center">
+        <h2 class="mb-1" style="white-space: nowrap;">WELCOME TO MY PAGE !!!! </h2>
+        <hr class="col mx-2">
+        <h2 class="mb-0 text-primary" style="margin-top: -0.3rem;"><i class="fa-duotone fa-cloud-bolt" style="color: #852624;"></i></h2>
+      </div></div>
+        
+  <!------ MAIN TEXT -------->
+      <p class="mb-2">HI AND WELCOME!!! Im bug, Im sorta new to the art community, i havent interacted a lotttt but i really want to be active more! Ive hosted a few raffles and done a few free things here and there but i really do want to be more active! Socail media scares me LMAO buuuut still. Im ALWYAS looking for mutuals, i love getting to know other artists / writers and creative people alike! I dont accept random discord friend requests but if you tell me beforehand youre  requesting ill def accept!</p>
+      
+      <!------ HEADING ---------->
+      <div class="row no-gutters"><div class="col-12 d-flex align-items-center">
+        <h2 class="mb-1" style="white-space: nowrap;">Coms / Trading Info!</h2>
+        <hr class="col mx-2">
+        <h2 class="mb-0 text-primary" style="margin-top: -0.3rem;"><i class="fa-duotone fa-cloud-bolt" style="color: #852624;"></i></h2>
+      </div></div>
+      
+      <!------ MAIN TEXT -------->
+      <p class="mb-2">YOOOO I have comissions and trading open!! I dont have a com info sheet, you can check out my art examples though and jsut lmk what youd like! Its basically name your price though I am saving up to move into my own place (need to feed 2 cats on my own soon & take care of vet bills) Trades are also open thoguh yes! I love doing art trades, Id also be so down to do a fic trade if I know the media (willing to watch something new) uhhh if you ask ill share my ao3  in dms for you to check out my stuff, dont feel like setting up a link rn lol!! Ill also take writing comissions!</p>
+      
+      <!------ HEADING ---------->
+      <div class="row no-gutters"><div class="col-12 d-flex align-items-center">
+        <h2 class="mb-1" style="white-space: nowrap;">Please Note</h2>
+        <hr class="col mx-2">
+        <h2 class="mb-0 text-primary" style="margin-top: -0.3rem;"><i class="fa-duotone fa-cloud-bolt" style="color: #852624;"></i></h2>
+      </div></div>
+      
+      <!------ BULLETS ---------->
+      <ul class="mb-0 pl-4">
+        <li>I am on the autism specrtum! I may need tonetags or for you to explain things more specifically, please be patient!</li>
+        <li>BYI - Im very silly (mentally ill), so replies may take a while!! Feel free to ping me again after a few days if i havent gotten back to you!</li>
+        <li>The ONLY WAY my OCs would be up for offer is IF they have the UFO tag!! Otherwise they will likely have the forever homed tag and it will stay that way unless I loose connection with them. (feel free to ask to be added to a ping list for if a character of mine goes up for offer!)</li>
+        <li>I LOOOVEEE it when people make art of my characters, literally even if its just a meme or a silly doodle i love lvoe it so much!! Absolutely feel free to draw them (i may even gift you art back!!!)</li>
+      </ul>
+      
+    </div>
+    <!--------------------------->
+    
+    
+    <!------ IMAGE ROW BOX ------>
+    <div class="card bg-faded mt-2 p-3">
+      
+      <!------ HEADING ---------->
+      <div class="row no-gutters"><div class="col-12 d-flex align-items-center">
+        <h2 class="mb-1" style="white-space: nowrap;">Featured</h2>
+        <hr class="col mx-2">
+        <h2 class="mb-0 text-primary" style="margin-top: -0.3rem;"><i class="fa-duotone fa-cloud-bolt" style="color: #852624;"></i></h2>
+      </div></div>
+        
+      <!------ IMAGE ROW -------->
+      <div class="row no-gutters mx-n1 mb-n1">
+        <div class="col-6 col-sm-4 col-xl-2 p-1 justify-content-center align-items-center"><a href="https://toyhou.se/16240900.sprinkles"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/74100477_0Fy2xouHk2SrMAM.png?1701186348" class="rounded"></a></div>
+        <div class="col-6 col-sm-4 col-xl-2 p-1 justify-content-center align-items-center"><a href="https://toyhou.se/24412933.insect"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/74101164_LDqSSFH7bo5VqPg.png?1701188922" class="rounded"></a></div>
+        <div class="col-6 col-sm-4 col-xl-2 p-1 justify-content-center align-items-center"><a href="https://toyhou.se/24256661.iso"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/74101692_2dcYWoOJqFWH3Dx.png" class="rounded"></a></div>
+        <div class="col-6 col-sm-4 col-xl-2 p-1 justify-content-center align-items-center"><a href="https://toyhou.se/17360293.buggo"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/74102021_2egZe0xAaKOTAk7.png" class="rounded"></a></div>
+        <div class="col-6 col-sm-4 col-xl-2 p-1 justify-content-center align-items-center"><a href="https://toyhou.se/16925235.slime-cat"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/74102713_Dyeq5V2qjabqlfd.png" class="rounded"></a></div>
+        <div class="col-6 col-sm-4 col-xl-2 p-1 justify-content-center align-items-center"><a href="https://toyhou.se/16956090.racc"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/74102742_viMZGVrR9T94ohh.png" class="rounded"></a></div>
+      </div>
+      
+    </div>
+    <!--------------------------->
+    
+        <!------ IMAGE ROW BOX ------>
+    <div class="card bg-faded mt-2 p-3">
+        
+      <!------ IMAGE ROW -------->
+      <!------ HEADING ---------->
+      <div class="row no-gutters"><div class="col-12 d-flex align-items-center">
+        <h2 class="mb-1" style="white-space: nowrap;">Interests</h2>
+        <hr class="col mx-2">
+        <h2 class="mb-0 text-primary" style="margin-top: -0.3rem;"><i class="fa-duotone fa-cloud-bolt" style="color: #852624;"></i></h2>
+      </div></div>
+      
+      <!------ MAIN TEXT -------->
+      <p class="mb-2">I currently have a reocurring hyperfixation in both terraria (200+ hours) and stardew valley (600+ hours) omg i can share my kin list here yooo!!!!! <a href="https://docs.google.com/presentation/d/1oRzxMgjd4CpIdbeXIQIAn_VbHKJrHwJEr_ssfugN0Vo/edit?usp=sharing">Here it is omg my kin list <33</a> (its in no particular order). uhh im into games like ddlc, slime rancher, powerwash sim, grounded, GTFO, ect!! Shows i watch are typicallt older shows, i watch Leverage, House MD, Burn Notice, ect!!! random list of other things im into; anatomy, horror, insects, taxidermy, comic spidey & deadpool, D&D & worldbuilding!! <a href="https://open.spotify.com/playlist/4qF5zQaDu5tzIT2s5TeM0F">Here is my main playlist!! (its rad)</a></p>
+      
+    </div>
+    <!--------------------------->
+    
+  </div>
+  <!----------------------------->
+  
+</div>
+<!------------------------------->
+
+
+
+<!-------------------------------------------
+|        F2U || PAGEDOLL
+|        elastic version
+|        ----------------------
+|        Place this code AFTER all other code.
+|        
+|        More Pagedoll Resources
+|        https://toyhou.se/20108852.
+|        ----------------------
+|        HTML + Bootstrap
+|        Turn off WYSIWYG
+|        Mobile Friendly
+------------------------------------------->
+
+<!------------------
+| Placement
+-------------------->
+<div class="fixed-bottom pb-2" style="left:inherit; bottom:1%;">
+
+<!------------------
+| Do Not Delete
+------------------->
+<a class="fixed-bottom pb-2" style="left:98.7%" href="/19885886.">
+<i class="fas fa-box-heart fa-xs text-muted"></i></a>
+
+<!------------------
+| Doll/Image
+-------------------->
+<img src="https://media.discordapp.net/attachments/1108152487996833822/1178861293235601428/Untitled548_20231127195335.png?ex=6577af22&is=65653a22&hm=5dfa224a6f2f3f83f9fb4236d3c2d31dbb4a488229ec92668ed6e7d3d69bc0b3&=&width=655&height=655"
+class="fa-bounce tooltipster hidden-sm-down" alt="pagedoll"
+
+/*--- animation speed ---*/;
+style="animation-duration: 1s;max-width:150px;">
+</div></div></div>
+<!-------------------------------
+| PAGEDOLL CODE END
+-------------------------------->
